@@ -1,4 +1,4 @@
-# Terminal Page
+# 0x01.lol Terminal Landing Page
 
 This project is a simple terminal-style web page designed to mimic a command-line interface (CLI) environment. It provides users with a familiar interface where they can input commands and receive responses, similar to using a terminal on a computer.
 
