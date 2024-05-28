@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
         const redirectCommands = {
             'game': 'https://game.0x01.lol',
-            'speedtest': 'https://speedtest.0x01.lol'
+            'cyberwarfare': 'https://cyberwarfare.site'
         };
     
         if (redirectCommands.hasOwnProperty(command)) {
@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li>help: Display this help message.</li>
                 <li>clear: Clear the terminal screen.</li>
                 <li>game: Takes you to the 0x01.lol Game Panel.</li>
+                <li>cyberwarfare: Takes you to the cyberwarfare.site.</li>
             </ul>
         `;
         const output = document.createElement('div');
